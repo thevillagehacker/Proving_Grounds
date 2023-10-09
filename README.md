@@ -24,7 +24,7 @@
 - [FunboxRookie](/Writeups/2023-09-14-Proving_grounds_Play-FunboxRookie.md)
 - [FunBoxEasyEnum](/Writeups/2023-09-15-Proving_grounds_Play-FunboxEasyEnum.md)
 - [PyExp](/Writeups/2023-09-17-Proving_grounds_Play-PyExp.md)
-
+- [Shakabrah](/Writeups/2023-09-17-Proving_grounds_Play-Shakabrah.md)
 
 
 
