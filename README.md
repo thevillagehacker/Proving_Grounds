@@ -95,3 +95,4 @@
 ## Proving Grounds: Practice
 
 - [ClamAV](/Writeups/2023-08-20-Proving_grounds_Practice-ClamAV.md)
+- [Payday](/Writeups/2023-10-19-Proving_grounds_Practice-Payday.md)
