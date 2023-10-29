@@ -72,25 +72,25 @@
 
 - [SoSimple](/Writeups/2023-07-22-Proving_grounds_Play-SoSimple.md)
 - [Stapler](/Writeups/2023-10-02-Proving_grounds_Play-Stapler.md)
-- [SO SIMPLE: 1]
-- [TRE: 1]
+- [SO SIMPLE: 1]()
+- [TRE: 1]()
 - [SunsetMidnight](/Writeups/2023-07-28-Proving_grounds_Play-Sunset-midnight.md)
 - [Infosecprep](/Writeups/2023-09-02-Proving_grounds_Play-Infosec.prep.md)
 - [Seppuku](/Writeups/2023-09-19-Proving_grounds_Play-Seppuku.md)
 - [DC-1](/Writeups/2023-09-02-Proving_grounds_Play-DC-1.md)
 - [DC-2](/Writeups/2023-09-06-Proving_grounds_Play-DC-2.md)
-- [Assertion101]
-- [FunBoxEasy]
+- [Assertion101]()
+- [FunBoxEasy]()
 - [FunBoxEasyEnum](/Writeups/2023-09-15-Proving_grounds_Play-FunboxEasyEnum.md)
 - [DriftingBlues6](/Writeups/2023-09-10-Proving_grounds_Play-DriftingBlues6.md)
 - [ICMP](/Writeups/2023-07-15-Proving_grounds_Play-ICMP.md)
 - [Djinn3](/Writeups/2023-07-29-Proving_grounds_Play-Djinn3.md)
-- [GLASGOW SMILE: 1.1]
-- [PowerGrid 1.0.1]
-- [GITROOT: 1]
-- [Dawn2]
-- [DC-3]
-- [DC-4]
+- [GLASGOW SMILE: 1.1]()
+- [PowerGrid 1.0.1]()
+- [GITROOT: 1]()
+- [Dawn2]()
+- [DC-3]()
+- [DC-4]()
 
 ## Proving Grounds: Practice
 
