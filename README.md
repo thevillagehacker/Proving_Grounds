@@ -65,6 +65,7 @@
 - [Twiggy](/Writeups/2023-08-27-Proving_grounds_Practice-Twiggy.md)
 - [Internal](/Writeups/2023-08-28-Proving_grounds_Practice-Internal.md)
 - [Kevin](/Writeups/2023-08-28-Proving_grounds_Practice-Kevin.md)
+- [Fail](/Writeups/2023-12-30-Proving_grounds_Practice_Fail.md)
 
 # OSCP Preparation Machines
 
