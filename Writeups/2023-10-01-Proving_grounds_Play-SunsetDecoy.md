@@ -2,18 +2,10 @@
 title: "Proving grounds Play: SunsetDecoy"
 layout: post
 date: 2023-10-01 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - SunsetDecoy CTF writeup.
 
 ## Nmap
 
@@ -212,4 +204,4 @@ uid=1000(296640a3b825115a47b68fc44501c828) gid=1000(296640a3b825115a47b68fc44501
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

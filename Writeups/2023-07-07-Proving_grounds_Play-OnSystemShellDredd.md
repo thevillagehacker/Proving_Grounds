@@ -2,20 +2,15 @@
 title: "Proving grounds Play: OnSystemShellDredd"
 layout: post
 date: 2023-07-07 22:10
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
-# Walkthrough on Youtube
+
+Proving grounds Play - OnSystemShellDredd CTF writeup.
+
+## Walkthrough on Youtube
 [![youtube](/assets/images/CTF/Proving_Grounds/OnSystemShellDredd/youtube.png)](https://youtu.be/UPYHCc7PdGQ)
 
-# NMAP
+## NMAP
 ```bash
 naveenj@hackerspace|01:02 AM|~/Pg-Play$ nmap -p- --open -sV -sT -sC 192.168.191.130 -v -oN nmap                                                                                           
 Starting Nmap 7.93 ( https://nmap.org ) at 2023-07-08 01:02 EDT                                                
@@ -202,4 +197,4 @@ Obtained root and proof flag.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

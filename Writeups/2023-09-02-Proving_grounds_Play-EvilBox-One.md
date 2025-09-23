@@ -2,18 +2,10 @@
 title: "Proving grounds Play: EvilBox-One"
 layout: post
 date: 2023-09-02 03:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - EvilBox-One CTF writeup.
 
 ## Nmap
 
@@ -100,4 +92,4 @@ Switch to user `hacker` and enter password `mypass` to obtain root.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

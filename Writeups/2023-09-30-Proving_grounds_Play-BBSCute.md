@@ -2,18 +2,10 @@
 title: "Proving grounds Play: BBSCute"
 layout: post
 date: 2023-09-30 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - BBSCute CTF writeup.
 
 ## Nmap
 
@@ -124,4 +116,4 @@ hping3>
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

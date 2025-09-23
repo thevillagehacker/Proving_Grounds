@@ -2,21 +2,12 @@
 title: "Proving grounds Play: SoSimple"
 layout: post
 date: 2023-07-22 12:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-- RFI
-- Wordpress
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
-# Walkthrough on Youtube
+
+Proving grounds Play - SoSimple CTF writeup.
+
+## Walkthrough on Youtube
 
 [![youtube](/assets/images/CTF/Proving_Grounds/SoSimple/youtube.png)](https://youtu.be/KodURDujWxs)
 
@@ -186,4 +177,4 @@ cp /bin/dash /var/tmp/dash; chmod u+s /var/tmp/dash
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

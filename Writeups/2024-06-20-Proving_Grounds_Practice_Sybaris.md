@@ -1,20 +1,11 @@
 ---
 title: "Proving grounds Practice: Sybaris"
 layout: post
-date: 2024-06-20 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- 
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+date: 2024-06-20 02:0
+categories: writeup
 ---
+
+Proving grounds Practice - Sybaris CTF writeup.
 
 ## Nmap
 ```shell
@@ -104,11 +95,11 @@ MAILTO=""
   *  *  *  *  * root       /usr/bin/log-sweeper
 ```
 
-Abuse LD_LIBRARY_PATH
+**Abuse LD_LIBRARY_PATH**
 
-https://atom.hackstreetboys.ph/linux-privilege-escalation-environment-variables/
+- https://atom.hackstreetboys.ph/linux-privilege-escalation-environment-variables/
 
-Exploit
+### Exploit
 
 ```c
 #include <stdio.h>
@@ -138,4 +129,4 @@ Note after running the exploit the `SUID` bit has been set to the binry `find`.
 
 **Root Obtained**
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

@@ -2,18 +2,10 @@
 title: "Proving grounds Play: Solstice"
 layout: post
 date: 2023-09-13 05:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - Solstice CTF writeup.
 
 ## Nmap
 
@@ -106,4 +98,4 @@ Download the pentest monkey php reverse shell into the folder and rename it as `
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

@@ -2,18 +2,11 @@
 title: "Proving grounds Play: Sar"
 layout: post
 date: 2023-07-23 12:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Pg-Play
-- Linux
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - Sar CTF writeup.
+
 ## NMAP
 ```sh
 PORT   STATE SERVICE VERSION
@@ -116,4 +109,4 @@ Added python revershell to the `write.sh` file, so when the cronjob runs the wri
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

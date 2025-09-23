@@ -2,19 +2,10 @@
 title: "Proving grounds Play: Astronaut"
 layout: post
 date: 2023-10-05 03:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- Grav-CMS
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Astronaut CTF writeup.
 
 ## Nmap
 
@@ -107,4 +98,4 @@ root
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

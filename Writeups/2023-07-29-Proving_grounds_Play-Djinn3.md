@@ -2,17 +2,11 @@
 title: "Proving grounds Play: Djinn3"
 layout: post
 date: 2023-07-29 12:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - Djinn3 CTF writeup.
+
 ## NMAP
 ```sh
 PORT      STATE SERVICE VERSION
@@ -260,4 +254,4 @@ Root obtained.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

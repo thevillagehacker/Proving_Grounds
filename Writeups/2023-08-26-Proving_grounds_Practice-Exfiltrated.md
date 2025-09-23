@@ -2,18 +2,10 @@
 title: "Proving grounds Practice: Exfiltrated"
 layout: post
 date: 2023-08-26 06:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Exfiltrated CTF writeup.
 
 ## Nmap
 
@@ -153,4 +145,4 @@ Then it downloads the reverse shell script `shell.sh` from the attacker's machin
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

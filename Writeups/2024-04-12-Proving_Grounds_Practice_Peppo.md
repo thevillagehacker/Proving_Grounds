@@ -2,19 +2,10 @@
 title: "Proving grounds Practice: Peppo"
 layout: post
 date: 2024-04-12 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- Docker
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Peppo CTF writeup.
 
 # NMAP
 
@@ -98,4 +89,4 @@ uid=0(root) gid=0(root) groups=0(root)
 
 **Root Obtained**
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

@@ -2,19 +2,10 @@
 title: "Proving grounds Practice: Nibbles"
 layout: post
 date: 2024-01-05 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- PostgreSQL
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Nibbles CTF writeup.
 
 # NMAP
 
@@ -88,4 +79,4 @@ Enumerate SUIDs `$ find / -perm -u=s -type f 2>/dev/null`.
 
 **Root Obtained**
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

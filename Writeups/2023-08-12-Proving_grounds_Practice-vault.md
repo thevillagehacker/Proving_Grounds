@@ -2,20 +2,12 @@
 title: "Proving grounds Practice: Vault"
 layout: post
 date: 2023-08-12 12:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Windows
-- Pg-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice windows machine writeup"
+categories: writeup
 ---
 
-# Walkthrough on Youtube
+Proving grounds Practice - Vault CTF writeup.
+
+## Walkthrough on Youtube
 [![youtube](/assets/images/CTF/Proving_Grounds/Vault/youtube.png)](https://youtu.be/JocbrhLXuss)
 
 ## NMAP
@@ -170,4 +162,4 @@ python3 psexec.py domain_name/username:password@IP
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

@@ -2,18 +2,10 @@
 title: "Proving grounds Practice: Internal"
 layout: post
 date: 2023-08-28 04:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Windows
-- Pg-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice windows machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Internal CTF writeup.
 
 ## Nmap
 
@@ -231,4 +223,4 @@ Reverse shell obtained.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

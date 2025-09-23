@@ -2,18 +2,10 @@
 title: "Proving grounds Play: FunboxEasy"
 layout: post
 date: 2023-09-16 01:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - FunboxEasy CTF writeup.
 
 ## Nmap
 
@@ -97,4 +89,4 @@ sudo pkexec /bin/dash
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

@@ -2,19 +2,12 @@
 title: "Proving grounds Play: Access"
 layout: post
 date: 2023-08-16 12:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Windows
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play windows machine writeup"
+categories: writeup
 ---
-# Walkthough on Youtube
+
+Proving grounds Practice - Access CTF writeup.
+
+## Walkthough on Youtube
 
 [![youtube](/assets/images/CTF/Proving_Grounds/Access/yt.png)](https://youtu.be/h1Br5umYxwc)
 
@@ -182,4 +175,4 @@ $object = [Activator]::CreateInstance($type)
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

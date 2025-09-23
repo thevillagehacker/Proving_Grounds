@@ -2,18 +2,10 @@
 title: "Proving grounds Play: Empire-breakout"
 layout: post
 date: 2023-10-01 03:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - Empire-Breakout CTF writeup.
 
 ## Nmap
 
@@ -205,4 +197,4 @@ root@breakout:~#
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

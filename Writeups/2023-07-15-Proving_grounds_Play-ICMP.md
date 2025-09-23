@@ -2,19 +2,12 @@
 title: "Proving grounds Play: ICMP"
 layout: post
 date: 2023-07-15 12:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
-# Walkthrough on Youtube
+
+Proving grounds Play - ICMP CTF writeup.
+
+## Walkthrough on Youtube
 
 [![youtube](/assets/images/CTF/Proving_Grounds/ICMP/youtube.png)](https://youtu.be/6fyL_fFyV4c)
 
@@ -145,4 +138,4 @@ SSH to the root user using the obtained root SSH key.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

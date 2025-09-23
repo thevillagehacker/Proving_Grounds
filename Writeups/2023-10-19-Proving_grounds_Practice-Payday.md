@@ -2,19 +2,10 @@
 title: "Proving grounds Play: Payday"
 layout: post
 date: 2023-10-19 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- RCE
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Payday CTF writeup.
 
 ## Nmap
 
@@ -72,4 +63,4 @@ Upon recon it was found that the user patrick can run ALL, run `sudo su` to obta
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

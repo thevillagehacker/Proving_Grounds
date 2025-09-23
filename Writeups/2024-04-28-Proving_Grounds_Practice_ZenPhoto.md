@@ -2,19 +2,10 @@
 title: "Proving grounds Practice: ZenPhoto"
 layout: post
 date: 2024-04-28 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- 
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - ZenPhoto CTF writeup.
 
 # NMAP
 
@@ -110,4 +101,4 @@ lp:x:7:7:lp:/var/spool/lpd:/bin/sh
 
 **Root Obtained**
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

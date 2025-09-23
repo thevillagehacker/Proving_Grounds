@@ -2,19 +2,12 @@
 title: "Proving grounds Play: Election1"
 layout: post
 date: 2023-07-18 12:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
-# Walkthrough on Youtube
+
+Proving grounds Play - Election1 CTF writeup.
+
+## Walkthrough on Youtube
 
 [![youtube](/assets/images/CTF/Proving_Grounds/Election1/youtube.png)](https://youtu.be/4ls30YSlfAM)
 
@@ -109,4 +102,4 @@ Serv-U FTP Server < 15.1.7 - Local Privilege Escalation (2)       | multiple/loc
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

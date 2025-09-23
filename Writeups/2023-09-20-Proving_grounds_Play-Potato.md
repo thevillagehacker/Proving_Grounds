@@ -2,18 +2,10 @@
 title: "Proving grounds Play: Potato"
 layout: post
 date: 2023-09-20 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - Potato CTF writeup.
 
 ## Nmap
 
@@ -140,4 +132,4 @@ Run the below command to obtain root shell.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

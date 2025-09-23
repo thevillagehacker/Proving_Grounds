@@ -2,19 +2,10 @@
 title: "Proving grounds Play: Sumo"
 layout: post
 date: 2023-08-29 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-- Dirtyc0w
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - Sumo CTF writeup.
 
 ## Nmap
 
@@ -102,4 +93,4 @@ gcc -pthread dirty.c -o dirty -lcrypt
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

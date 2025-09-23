@@ -2,18 +2,10 @@
 title: "Proving grounds Practice: Helpdesk"
 layout: post
 date: 2023-08-27 03:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Windows
-- Pg-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice windows machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Helpdesk CTF writeup.
 
 ## Nmap
 
@@ -54,4 +46,4 @@ Run the exploit code.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

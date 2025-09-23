@@ -2,21 +2,10 @@
 title: "Proving grounds Practice: Zino"
 layout: post
 date: 2024-03-07 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- smb
-- Booked Scheduler
-- Cronjobs
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Zino CTF writeup.
 
 # NMAP
 
@@ -148,4 +137,4 @@ connect to [192.168.45.232] from (UNKNOWN) [192.168.201.64] 35774
 
 **Root Obtained**
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

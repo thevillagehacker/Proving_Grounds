@@ -2,19 +2,10 @@
 title: "Proving grounds Play: Hawat"
 layout: post
 date: 2023-10-16 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- RCE
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Hawat CTF writeup.
 
 ## Nmap
 
@@ -63,7 +54,7 @@ Next cloud login page, use credentials `admin:admin` to login.
 
 Download and extract the `issuetracker.zip` file in the local machine. Open the extracted file in a text editor to review the code.
 
-Upon reviewwing the code, found that the application is vulnerable to sql injection vulnerability.
+Upon reviewing the code, found that the application is vulnerable to sql injection vulnerability.
 
 ```java
 	@GetMapping("/issue/checkByPriority")
@@ -166,4 +157,4 @@ sh-5.1#
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

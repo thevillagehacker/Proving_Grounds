@@ -2,18 +2,10 @@
 title: "Proving grounds Play: Moneybox"
 layout: post
 date: 2023-09-12 01:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - Moneybox CTF writeup.
 
 ## Nmap
 
@@ -133,4 +125,4 @@ sudo perl -e 'exec "/bin/sh";'
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

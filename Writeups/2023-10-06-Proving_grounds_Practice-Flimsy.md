@@ -2,18 +2,10 @@
 title: "Proving grounds Play: Flimsy"
 layout: post
 date: 2023-10-06 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Flimsy CTF writeup.
 
 ## Nmap
 
@@ -63,6 +55,8 @@ naveenj@hackerspace:|22:26|~/proving_grounds/Flimsy/exploit$ python exploit.py h
 { Coded By: Ven3xy  | Github: https://github.com/M4xSec/ }
 ```
 
+Netcat Listening...
+
 ```sh
 naveenj@hackerspace:|22:25|~/proving_grounds/Flimsy/exploit$ nc -lvnp 4444
 listening on [any] 4444 ...
@@ -105,4 +99,4 @@ root
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

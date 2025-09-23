@@ -2,18 +2,10 @@
 title: "Proving grounds Practice: RubyDome"
 layout: post
 date: 2023-08-27 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - RubyDome CTF writeup.
 
 ## Nmap
 
@@ -65,4 +57,4 @@ echo 'exec "/bin/bash"' > app.rb
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

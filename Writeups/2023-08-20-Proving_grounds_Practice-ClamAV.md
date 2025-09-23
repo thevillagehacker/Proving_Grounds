@@ -2,18 +2,10 @@
 title: "Proving grounds Practice: ClamAV"
 layout: post
 date: 2023-08-20 06:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - ClamAV CTF writeup.
 
 ## Nmap
 
@@ -81,4 +73,4 @@ Root obtained.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

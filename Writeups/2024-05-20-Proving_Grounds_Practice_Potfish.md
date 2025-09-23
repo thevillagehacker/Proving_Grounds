@@ -2,19 +2,10 @@
 title: "Proving grounds Practice: Potfish"
 layout: post
 date: 2024-05-20 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- SMTP
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Potfish CTF writeup.
 
 # NMAP
 ```text
@@ -65,10 +56,10 @@ Sarah Lorem
 
 **Common email naming**
 
-claire.madison@postfish.off
-mike.ross@postfish.off
-brian.moore@postfish.off
-sarah.lorem@postfish.off
+- claire.madison@postfish.off
+- mike.ross@postfish.off
+- brian.moore@postfish.off
+- sarah.lorem@postfish.off
 
 ```shell
 naveenj@hackerspace:[08:01]~/proving_grounds/Postfish$ smtp-user-enum -U usr -t postfish.off
@@ -188,7 +179,9 @@ first_name%3DBrian%26last_name%3DMoore%26email%3Dbrian.moore%postfish.off%26user
 
 ### url decoded
 
+```text
 first_name=Brian&last_name=Moore&email=brian.moore%postfish.off&username=brian.moore&password=EternaLSunshinE&confifind/var/mail/-typef!-namesales-delete_password=EternaLSunshinE
+```
 
 ### Credentials
 brain.moore:EternaLSunshinE
@@ -253,4 +246,4 @@ root
 
 **Root Obtained**
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

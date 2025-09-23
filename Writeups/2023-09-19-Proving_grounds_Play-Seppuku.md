@@ -2,18 +2,10 @@
 title: "Proving grounds Play: Seppuku"
 layout: post
 date: 2023-09-19 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - Seppuku CTF writeup.
 
 ## Nmap
 
@@ -98,4 +90,4 @@ Now execute the command the user samurai is allowed to get root shell.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

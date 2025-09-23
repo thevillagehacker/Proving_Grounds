@@ -2,18 +2,11 @@
 title: "Proving grounds Practice: Pebbles"
 layout: post
 date: 2023-08-18 06:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Pebbles CTF writeup.
+
 ## Nmap
 
 ```sh
@@ -110,4 +103,4 @@ Use PORT `3305` to get reverse connection sucessfully. Other ports are not allow
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

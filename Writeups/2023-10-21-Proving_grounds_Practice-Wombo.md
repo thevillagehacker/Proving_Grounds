@@ -2,20 +2,10 @@
 title: "Proving grounds Practice: Wombo"
 layout: post
 date: 2023-10-21 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- RCE
-- Redis
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Wombo CTF writeup.
 
 ## Nmap
 
@@ -120,4 +110,4 @@ root@wombo:/#
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

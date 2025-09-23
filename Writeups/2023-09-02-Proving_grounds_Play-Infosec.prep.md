@@ -2,18 +2,10 @@
 title: "Proving grounds Play: Infosecprep"
 layout: post
 date: 2023-09-02 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - Infosecprep CTF writeup.
 
 ## Nmap
 
@@ -82,4 +74,4 @@ In that case the owner is the root user so we can simply run `/bin/bash -p` to o
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

@@ -2,18 +2,10 @@
 title: "Proving grounds Play: SunsetNoontide"
 layout: post
 date: 2023-09-11 01:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - SunsetNoontide CTF writeup.
 
 ## Nmap
 
@@ -65,4 +57,4 @@ The results shows the root user access can be obtained by switching to root usin
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

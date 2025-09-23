@@ -2,18 +2,10 @@
 title: "Proving grounds Play: DC-1"
 layout: post
 date: 2023-09-03 01:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - DC-1 CTF writeup.
 
 ## Nmap
 
@@ -130,4 +122,4 @@ find file -exec "/bin/dash" \; -quit
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

@@ -2,19 +2,10 @@
 title: "Proving grounds Play: DriftingBlues6"
 layout: post
 date: 2023-09-10 01:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Play
-- Dirtyc0w
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - DriftingBlues6 CTF writeup.
 
 ## Nmap
 
@@ -105,4 +96,4 @@ Switch user to `firefart` and use the password `password`.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

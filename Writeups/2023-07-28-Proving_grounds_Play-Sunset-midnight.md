@@ -2,18 +2,11 @@
 title: "Proving grounds Play: SunsetMidnight"
 layout: post
 date: 2023-07-28 10:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Pg-Play
-- Linux
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds play linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Play - SunsetMidnight CTF writeup.
+
 ## NMAP
 ```sh
 PORT     STATE SERVICE VERSION
@@ -137,4 +130,4 @@ The status binary in the SUID runs services.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

@@ -2,19 +2,10 @@
 title: "Proving grounds Practice: Fail"
 layout: post
 date: 2023-12-30 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- Rsync
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Fail CTF writeup.
 
 ## Nmap
 
@@ -136,4 +127,4 @@ Run the netcat listener and try invalid ssh login attemps to trigger shell.
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

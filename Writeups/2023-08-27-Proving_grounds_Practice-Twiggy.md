@@ -2,18 +2,10 @@
 title: "Proving grounds Practice: Twiggy"
 layout: post
 date: 2023-08-27 01:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- Pg-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Twiggy CTF writeup.
 
 ## Nmap
 
@@ -87,4 +79,4 @@ SSH to the attacking machine using the username as `hacker` and password `hacked
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr). 
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr). 

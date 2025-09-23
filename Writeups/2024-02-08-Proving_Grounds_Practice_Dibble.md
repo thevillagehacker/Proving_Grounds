@@ -2,20 +2,10 @@
 title: "Proving grounds Practice: Dibble"
 layout: post
 date: 2024-02-08 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-- NodeJS
-- SUID
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Dibble CTF writeup.
 
 # NMAP
 
@@ -116,4 +106,4 @@ Password: mypass
 
 - https://www.hackingarticles.in/linux-for-pentester-cp-privilege-escalation/
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).

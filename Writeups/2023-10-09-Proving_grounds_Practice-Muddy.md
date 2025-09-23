@@ -2,18 +2,10 @@
 title: "Proving grounds Play: Muddy"
 layout: post
 date: 2023-10-09 02:00
-tag: 
-- CTF
-- Offsec labs
-- OSCP
-- Writeup
-- Linux
-- PG-Practice
-writeups: true
-hidden: true
-author: Naveen
-description: "Offsec proving grounds practice linux machine writeup"
+categories: writeup
 ---
+
+Proving grounds Practice - Muddy CTF writeup.
 
 ## Nmap
 
@@ -86,7 +78,7 @@ Replace the `/etc/passwd` with `/var/www/html/webdav/passwd.dav` to get the `web
 
 **Request**
 
-```text
+```http
 POST /muddy/soap11 HTTP/1.1
 Host: muddy.ugc:8888
 User-Agent: curl/7.87.0
@@ -117,7 +109,7 @@ Connection: close
 
 **Response**
 
-```text
+```http
 HTTP/1.0 200 OK
 Date: Mon, 09 Oct 2023 02:21:57 GMT
 Server: WSGIServer/0.1 Python/2.7.16
@@ -245,4 +237,4 @@ root@muddy:~#
 
 Thanks for reading!
 
-For more insights and updates, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
+For more updates and insights, follow me on Twitter: [@thevillagehacker](https://twitter.com/thevillagehackr).
