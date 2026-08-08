@@ -1,7 +1,4 @@
 # Table of contents
-
-* [CTF Writeups](README.md)
-* [Writeups](writeups/README.md)
   * [Proving grounds Play: OnSystemShellDredd](Writeups/2023-07-07-Proving_grounds_Play-OnSystemShellDredd.md)
   * [Proving grounds Play: ICMP](Writeups/2023-07-15-Proving_grounds_Play-ICMP.md)
   * [Proving grounds Play: Election1](Writeups/2023-07-18-Proving_grounds_Play-Election1.md)
